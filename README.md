@@ -15,6 +15,7 @@ Olá! Me chamo Guilherme Alberto!
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="right" alt="pic" height="200" style="border-radius:100px;"         src="https://cdn.discordapp.com/attachments/431620926585700352/1030598769865134120/download20221005183724.png">
 </div>
   
   ##
