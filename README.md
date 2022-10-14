@@ -1,4 +1,4 @@
-Olá! Me chamo Guilherme Alberto!
+Hi! I'm Guilherme Alberto!
 
 - 👀 I'm a computer science grad student who is always trying to learn new things!
 - 🌱 I’m currently learning Java, Python, JavaScript, HTML and CSS
